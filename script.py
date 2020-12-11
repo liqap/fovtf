@@ -91,9 +91,9 @@ def send_message_to_channel() -> None:
         except:
             pass
 
-    client.send_message('https://t.me/fov24h',
+    client.send_message('https://t.me/joinchat/AAAAAEAi2H_K_1rud0aFig',
                         f'Сводка за 24 часа:')
-    client.send_message('https://t.me/fov24h',
+    client.send_message('https://t.me/joinchat/AAAAAEAi2H_K_1rud0aFig',
                         f'Кол-во Fcoins: {sum(fcoins_sum)},\nСумма: {sum(rub_sum)}₽')
 
 
