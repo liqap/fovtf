@@ -1,6 +1,5 @@
-telethon
-datetime
-bs4
-requests
-json
-sys
+telethon==1.18.2
+datetime==4.3
+bs4==0.0.1
+requests==2.23.0
+os-sys==2.1.4
