@@ -1,0 +1,7 @@
+telethon
+datetime
+bs4
+requests
+re
+json
+sys
